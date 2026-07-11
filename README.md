@@ -26,7 +26,7 @@
 
 ### 💻 My LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Srabon-11?theme=dark&font=baloo&ext=activity" alt="LeetCode Stats">
+  <img src="https://leetcard.jacoblin.cool/Srabon-11?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats">
 </p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dhsrabon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
