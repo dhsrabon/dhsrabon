@@ -23,7 +23,10 @@
 ![](https://github-readme-stats.shion.dev/api?username=dhsrabon&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=dhsrabon&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dhsrabon&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
+### 💻 My LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/dhsrabon?theme=dark&font=baloo" alt="LeetCode Stats">
+</p>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dhsrabon&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
